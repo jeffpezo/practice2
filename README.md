@@ -1,2 +1,2 @@
 # practice2
-Beans
+Cheese
